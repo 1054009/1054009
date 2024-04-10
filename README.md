@@ -14,7 +14,8 @@ Hello I make stuff and things sometimes they are cool sometimes not so much,,
 
 <details>
 <summary><b>Fishes</b></summary>
-```
+
+```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠶⠶⣄
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⠁⠀⠀⠸⣆
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠾⠷⠀⠀⠀⠀⠛⠳⠶⠶⣄⡀
