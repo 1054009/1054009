@@ -13,7 +13,7 @@ Hello I make stuff and things sometimes they are cool sometimes not so much,,
 - PHP
 
 <details>
-<summary><b>Fishes</b<</summary>
+<summary><b>Fishes</b></summary>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠶⠶⣄\
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⠁⠀⠀⠸⣆\
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠾⠷⠀⠀⠀⠀⠛⠳⠶⠶⣄⡀\
