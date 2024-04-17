@@ -1,3 +1,18 @@
+# Stuff Nobody Cares About
+
+- Lua
+- C-Sharp
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+
+<details>
+<summary>Very Important Information</summary>
+
 ```text
 Gettysburg, what an unbelievable battle that was. The battle of Gettysburg. What an unbelievable.
 I mean, it was so much and so interesting and so vicious and horrible and so beautiful in so many different ways.
@@ -14,43 +29,4 @@ He said, “wow, that was a big mistake.” He lost his great general. And, uh, 
 - Donald J Trump
 ```
 
-# Stuff Nobody Cares About
-
-- Lua
-- C-Sharp
-- C++
-- Java
-- HTML
-- CSS
-- JavaScript
-- Python
-- PHP
-
-<details>
-<summary><b>Fishes</b></summary>
-
-```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠶⠶⣄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⠁⠀⠀⠸⣆
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠾⠷⠀⠀⠀⠀⠛⠳⠶⠶⣄⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠷⣄⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡴⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣶⡶⠛⠛⠛⠓⠦⣀
-⠀⠀⠀⠀⠀⢀⣠⠶⠋⠉⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠾⠁⠀⠀⠀⠀⠀⢀⣼⢿⡄
-⠀⠀⠀⠀⢠⣾⣁⣀⠀⠀⠀⠀⠀⠀⠙⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣷⡆
-⠀⠀⠀⣰⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠈⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠙⠻⠛⢸⢹
-⠀⠀⠀⢿⠙⢿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⡬
-⠀⠀⠀⢸⣆⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⢠⠀⠀⠀⢠⡀⠀⠀⠀⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠁
-⠀⠀⠀⠀⠿⣦⡀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠰⣿⡀⠀⠀⣿⣷⠀⠀⠀⠀⠀⠀⠀⠙⠳⠦⡤⠦⠴⠶⣿⣥⣤⣤⣤⡀
-⠀⣠⣤⣤⣬⣿⠛⠳⠶⢤⣤⡴⠞⠉⠀⠀⠀⠀⠀⠀⠀⠀⢿⣧⡀⢀⣼⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷
-⢸⡏⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠳⠄⠀⠀⠀⠀⣿
-⠸⡇⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡁⠀⠀⠀⣸⠃
-⠀⢳⡄⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠉⠳⠶⠞⠁
-⠀⠀⠛⢦⣤⡴⠻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟
-⠀⠀⠀⠀⠀⠀⠀⠙⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡴⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡴⠋
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⢢⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠊⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠶⠦⡤⣤⠤⠤⠤⠤⠤⠤⠤⣤⠴⠶⠚⠋
-```
-
-I lied there's only 1
 </details>
