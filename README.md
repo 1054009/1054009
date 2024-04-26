@@ -1,7 +1,7 @@
 # Stuff Nobody Cares About
 
 - Lua
-- C-Sharp
+- C#
 - C++
 - Java
 - HTML
